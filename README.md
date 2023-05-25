@@ -1,1 +1,1 @@
-# genAI
+# GenAI
